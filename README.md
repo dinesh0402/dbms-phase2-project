@@ -10,7 +10,7 @@ This reduces wait time for ordering the food by calling the waiter and the order
 * 👉 EJS
 
 ### ⚙ Back-End Technologies used:
-👉 Node.js
-👉 Express.js
-👉 MySQL (Database)
-👉 PlanetScale (Database Hosting)
+* 👉 Node.js
+* 👉 Express.js
+* 👉 MySQL (Database)
+* 👉 PlanetScale (Database Hosting)
